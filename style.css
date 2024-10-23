@@ -20,6 +20,7 @@
   border: 2px solid orange;
   padding: 20px;
 }
+
 .books{
   text-align: center;
   margin: 10px;
@@ -91,8 +92,27 @@ padding: 10px;
   margin-top: 10px;
   padding: 5px;
   gap: 10px;
+  /* background-color: peru; */
 }
 
+.card1{
+  background-color: orchid;
+  /* text-align: center; */
+  /* margin-left: 10px; */
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.card2{
+  background-color: mediumorchid;
+  padding: 20px;
+  border-radius: 5px;
+}
+.card3{
+  background-color: aquamarine;
+  padding: 20px;
+  border-radius: 5px;
+}
 .next{
   text-align:center;
   margin-top: 10px;
