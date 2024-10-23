@@ -1,0 +1,148 @@
+#body{
+  margin: 0;
+  padding: 0;
+}
+.nav{
+  display: flex;
+  margin: 0px;
+  justify-content: space-between;
+  /* margin-top: 5px; */
+}
+.btn1{
+  margin-top: 10px;
+  padding: 10px;
+  
+}
+
+.banner{
+  background-image: url(./assets/Hero-bg.png);
+  background-repeat: no-repeat;
+  border: 2px solid orange;
+  padding: 20px;
+}
+.books{
+  text-align: center;
+  margin: 10px;
+}
+
+.web{
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  font:bold;
+  font-size: 20px;
+}
+
+.layer{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 5px;
+}
+.btn2{
+  padding: 10px;
+}
+.layer-1{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 5px;
+}
+
+.btn2{
+padding: 10px;
+}
+
+.layer-2{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 5px;
+}
+
+.btn2{
+padding: 10px;
+}
+
+.inspiration{
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.iframe{
+  /* width: 100%; */
+  text-align: center;
+  /* height: auto; */
+  border: 2px solid purple;
+  height: 100%;
+  width: 100%;
+}
+
+.current{
+  text-align: center;
+  margin-top: 10px;
+  padding: 10px;
+  font: bold;
+}
+
+.card{
+  display: flex;
+  margin-top: 10px;
+  padding: 5px;
+  gap: 10px;
+}
+
+.next{
+  text-align:center;
+  margin-top: 10px;
+  padding: 10px;
+  font: 600;
+}
+
+.react{
+  display: flex;
+  gap: 10px;
+  border: 2px solid olivedrab;
+  margin-top: 10px;
+  padding: 10px;
+
+}
+.node{
+  display: flex;
+  gap: 10px;
+  border: 2px solid olivedrab;
+  padding: 10px;
+  margin-top: 10px;
+}
+.mongobd{
+  display: flex;
+  gap: 10px;
+  border: 2px solid olivedrab;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.need{
+  background-image: url(./assets/handshake.jpg);
+  background-repeat: no-repeat;
+  /* width: 100%; */
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 50px;
+}
+
+.support{
+  text-align: center;
+  font: bold;
+  padding: 10px;
+}
+
+.footer{
+ display: flex;
+ justify-content: space-between;
+ margin-top: 10px;
+ padding: 5px;
+ border: 2px solid black;
+ border-radius: 5px;
+}
